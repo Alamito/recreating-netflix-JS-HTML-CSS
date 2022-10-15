@@ -47,7 +47,7 @@ header nav a:hover {
 /*FILME PRINCIPAL*/
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0, 0, 0, 0.5)100%), url('/img/whiplash-fundo.jpg'); /*A IMAGEM FICA COM UMA VINHETA*/
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0, 0, 0, 0.5)100%), url('../img/whiplash-fundo.jpg'); /*A IMAGEM FICA COM UMA VINHETA*/
 
     height: 400px;
     background-size: cover; /*IMAGEM FICA COM O TAMANHO DO ESPACO OCUPADO PELA CLASSE*/
