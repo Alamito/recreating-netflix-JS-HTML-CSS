@@ -1,4 +1,5 @@
 # ▶️ Recriando a interface da NETFLIX 💻
+[![NPM](https://img.shields.io/github/license/Alamito/recreating-netflix-JS-HTML-CSS)](https://github.com/Alamito/recreating-netflix-JS-HTML-CSS/blob/main/LICENCE)
 
 # Sobre o projeto
 
